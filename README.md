@@ -8,7 +8,7 @@ A hands-on documentation project exploring Amazon EC2 — from launching instanc
 
 Here's a glimpse of my first EC2 instance launch on AWS — deployed in the Asia Pacific (Tokyo) region. This diagram highlights the architecture involving AMIs, VPC, and subnets.
 
-![Amazon EC2 Architecture](attachments/et2Ngs1aHN4f8cVCSpiZu.png)
+![Amazon EC2 Architecture](https://docs.aws.amazon.com/images/AWSEC2/latest/UserGuide/images/launch-from-ami.png)
 
 > "Launched my first EC2 instance on AWS! Feeling the power of the cloud right here in the Asia Pacific (Tokyo) region. Excited to explore the possibilities."  
 > — Ritik
